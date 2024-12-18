@@ -39,7 +39,7 @@
     "@types/path-browserify": "latest",
     "@types/qrcode": "^1.5.5",
     "@vitest/coverage-v8": "^1.2.2",
-    "bun": "^1.0.28",
+    "bun": "^1.1.30",
     "fast-glob": "^3.3.2",
     "fs-extra": "^11.2.0",
     "hono": "^4.6.7",
